@@ -6,3 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 synctvorg/synctv
 lscr.io/linuxserver/webtop
+apache/kafka

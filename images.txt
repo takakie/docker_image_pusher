@@ -9,3 +9,4 @@ lscr.io/linuxserver/webtop
 apache/kafka
 nacos/nacos-server:1.4.0
 nacos/nacos-mysql:5.7
+vulhub/apache-druid:25.0.0
